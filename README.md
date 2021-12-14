@@ -19,7 +19,11 @@ Here are some ideas to get you started:
 I'm a Java developer who is passionate about making cool useless sh*t, creating technology to elevate people, building community, and figuring out what's happening around me. I enjoy working with Java, JavaFX, Spring, and so on. I’m currently learning JavaEE and going on with the "When nothing goes right, go left method" method. :)
 
 <br/>
-> "Imagination is everything. It is the preview of life's coming attractions." -Albert Einstein
+<br/>
+
+> "Imagination is everything. It is the preview of life's coming attractions."
+> - Albert Einstein
+
 <br/>
 <br/>
 
