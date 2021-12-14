@@ -25,7 +25,6 @@ I'm a Java developer who is passionate about making cool useless sh*t, creating 
 > -- Albert Einstein
 
 <br/>
-<br/>
 
 ## Find me around the web 🌎: <a href="https://github.com/Amin-Norouzi"><img align="left" width="200" height="200" src="https://github.com/Amin-Norouzi/Amin-Norouzi/blob/main/Amin-Norouzi-Contact-Image.png"></a>
 - Reach me via <a href="mailto:realaminnorouzi@gmail.com">Email</a> ✉
