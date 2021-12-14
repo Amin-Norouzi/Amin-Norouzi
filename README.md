@@ -28,6 +28,6 @@ I'm a Java developer who is passionate about making cool useless sh*t, creating 
 <br/>
 
 ## Find me around the web 🌎: <a href="https://github.com/Amin-Norouzi"><img align="left" width="200" height="200" src="https://github.com/Amin-Norouzi/Amin-Norouzi/blob/main/Amin-Norouzi-Contact-Image.png"></a>
-- Learning in public on <a href="https://www.twitch.tv/blacktechdiva">Twitch</a> or <a href="https://www.monica.dev">monica.dev</a> 📹 ✍🏾
-- Tinkering with interactions on <a href="https://codepen.io/m0nica"> Codepen</a> 🏓
-- Sharing updates on <a href="https://www.linkedin.com/in/monicampowell/">LinkedIn</a> 💼
+- Reach me via <a href="mailto:realaminnorouzi@gmail.com">Email</a> ✉
+- Follow me on <a href="https://twitter.com/RealAminNorouzia">Twitter</a> and <a href="https://www.instagram.com/realaminnorouzi/">Instagram</a> ✍📹
+- Sharing updates on <a href="https://www.linkedin.com/in/amin-norouzi/">LinkedIn</a> 💼
