@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 <!--
 **Amin-Norouzi/Amin-Norouzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img src="https://github.com/Amin-Norouzi/Amin-Norouzi/blob/main/Amin-Norouzi-Header-Image.png" alt="banner that says Amin Norouzi - Java Developer alongside a cartoon illustration of Amin">
-I'm a software engineer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, Jamstack (JavaScript, APIs + Markup) and GraphQL. In 2020, I was selected to be an inaugural <a href="https://stars.github.com/">GitHub Star 🌟</a> based on my involvement in the tech community.  My interest in the React ecosystem led me to launch <a href="https://www.meetup.com/React-Ladies/">React Ladies</a>, a community for women and non-binary ReactJS developers.
+I'm a Java developer who is passionate about making cool useless sh*t, creating technology to elevate people, and building community. I enjoy working with Java, JavaFX, Spring, and so on.
 
 
 ## Find me around the web 🌎: <a href="https://github.com/Amin-Norouzi"><img align="left" width="200" height="200" src="https://github.com/Amin-Norouzi/Amin-Norouzi/blob/main/Amin-Norouzi-Contact-Image.png"></a>
