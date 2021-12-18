@@ -22,7 +22,7 @@ I'm a Java developer who is passionate about making cool useless sh*t, creating 
 <br/>
 
 > "Imagination is everything. It is the preview of life's coming attractions."
-> -- Albert Einstein
+> – Albert Einstein
 
 <br/>
 
