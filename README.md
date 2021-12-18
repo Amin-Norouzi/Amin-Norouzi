@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <img src="https://github.com/Amin-Norouzi/Amin-Norouzi/blob/main/Amin-Norouzi-Header-Image.png" alt="banner that says Amin Norouzi - Java Developer alongside a cartoon illustration of Amin">
-I'm a Java developer who is passionate about making cool useless sh*t, creating technology to elevate people, building community, and figuring out what's happening around me. I enjoy working with Java, JavaFX, Spring, and so on. I’m currently learning JavaEE and going on with the "When nothing goes right, go left method" method. :)
+I'm a Java developer who is passionate about making cool useless sh*t, creating technology to elevate people, building community, and figuring out what's happening around me. I enjoy working with Java, JavaFX, Spring, and so on. I’m currently learning JavaEE and going on with the "When nothing goes right, go left" method. :)
 
 <br/>
 <br/>
