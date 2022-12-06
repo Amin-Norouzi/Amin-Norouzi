@@ -21,7 +21,7 @@ I'm a Java developer who is passionate about making cool useless sh*t, creating 
 <br/>
 <br/>
 
-> "Imagination is everything. It is the preview of life's coming attractions."
+> "Creativity is intelligence having fun."
 > – Albert Einstein
 
 <br/>
